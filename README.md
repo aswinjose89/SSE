@@ -9,3 +9,7 @@ Server Sent Events are a standard allowing browser clients to receive a stream o
 
 ## Current Integration
 One-way communication from ASP.net MVC Rest API to Javascript eventSource.EventSource will be listening for the changes from the server event to trigger to process the data
+
+## Prerequisites
+       - Visual Studio 2010
+       - Any Windows Machine
